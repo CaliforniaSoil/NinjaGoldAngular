@@ -1,0 +1,29 @@
+#Farm {
+    width: 200px;
+    height: 200px;
+    display: inline-block;
+    border: 2px solid;
+    text-align: center;
+}
+#House {
+    width: 200px;
+    height: 200px;
+    display: inline-block;
+    border: 2px solid;
+    text-align: center;
+}
+#Cave {
+    width: 200px;
+    height: 200px;
+    display: inline-block;
+    border: 2px solid;
+    text-align: center;
+}
+#Casino {
+    width: 200px;
+    height: 200px;
+    display: inline-block;
+    border: 2px solid;
+    vertical-align: bottom;
+    text-align: center;
+}
